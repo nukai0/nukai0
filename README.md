@@ -9,14 +9,14 @@
 
 | Технология | Уровень |
 |------------|---------|
-| C# / .NET | ⭐⭐⭐⭐⭐ |
-| ASP.NET Core Web API | ⭐⭐⭐⭐⭐ |
+| C# / .NET | ⭐⭐⭐⭐ |
+| ASP.NET Core Web API | ⭐⭐⭐⭐ |
 | Entity Framework Core | ⭐⭐⭐⭐ |
 | PostgreSQL | ⭐⭐⭐⭐ |
-| Elasticsearch | ⭐⭐⭐ |
-| Docker | ⭐⭐⭐ |
-| xUnit / Moq | ⭐⭐⭐⭐ |
-| Git / GitHub | ⭐⭐⭐⭐ |
+| Elasticsearch | ⭐⭐ |
+| Docker | ⭐⭐ |
+| xUnit / Moq | ⭐⭐⭐ |
+| Git / GitHub | ⭐⭐⭐ |
 | WinForms | ⭐⭐⭐⭐|
 
 ---
@@ -47,14 +47,6 @@
 - **Telegram:** [@skkmty](https://t.me/skkmty)
 - **Email:** m.sarichev1@gmail.com
 - **GitHub:** [nukai0](https://github.com/nukai0)
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nukai0&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nukai0&layout=compact&theme=dark)
 
 ---
 
